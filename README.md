@@ -42,7 +42,6 @@ wait_for asyncodegov()
 
 - [Check the Code.Gov Docs](https://api.code.gov), the Lib is a 1:1 copy of the official Docs.
 - This Library uses API Version from Year `2018`.
-- Each proc links to the official OSM API docs.
 - All procs should return a JSON Object `JsonNode`.
 - The order of the procs follows the order on the Code.Gov Docs.
 - The naming of the procs follows the naming on the Code.Gov Docs.
@@ -66,9 +65,7 @@ wait_for asyncodegov()
 - I dont live in US why should I care?.
 
 Lots of Scientific/Educational/Medical institutions have base on US.
-
 You can explore and hack on code from NASA, LIGO, among others.
-
 All Public funded code should be Open Source.
 
 - This works with Asynchronous code ?.
