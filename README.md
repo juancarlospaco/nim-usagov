@@ -57,7 +57,7 @@ wait_for asyncodegov()
 
 # Screenshots
 
-![Code.Gov](temp.png "Code.Gov Open Source Code")
+![Code.Gov](https://raw.githubusercontent.com/juancarlospaco/nim-usagov/master/temp.png "Code.Gov Open Source Code")
 
 
 # Support
