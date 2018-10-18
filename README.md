@@ -13,6 +13,13 @@ Code.gov API is a public API. Data from the API will be delivered in JSON.
 This Client is Async & Sync at the same time. CrossPlatform. CrossArchitecture. 0 Dependency. 1 File. ~250Kilobytes Compiled. Can run itself for an example. Proxy, IPv6, SSL & Timeout Support. Tiny RAM use. Self Rate Limited at 5000 Calls/Day. Self-Documented.
 
 
+# Install
+
+```
+nimble install usagov
+```
+
+
 # Use
 
 ```nim
