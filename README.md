@@ -1,6 +1,6 @@
 # Nim-USAGov
 
-- USA Code.Gov MultiSync API Client for Nim. Get data &amp; code from NASA, LIGO, Fermilab &amp; more on seconds!
+- [USA Code.Gov](http://code.gov) MultiSync API Client for [Nim](https://nim-lang.org). Get data &amp; code from NASA, LIGO, Fermilab &amp; more on seconds!
 
 
 ![Code.Gov](https://raw.githubusercontent.com/GSA/code-gov/master/images/community.png "Code.Gov Open Source Code")
